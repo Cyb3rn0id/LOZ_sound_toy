@@ -37,10 +37,9 @@ void _mp3s_w3(uint8_t c, uint16_t d)
 	putch(BYTE_STOP);
 	};
     
- void mp3s_init(uint8_t v)
+ void mp3s_init(void)
 	{
 	_mp3s_w2(CMD_SEL_DEV,DEV_TF);
-	mp3s_setVolume(v);
 	};
 
  void mp3s_setVolume(uint8_t v)

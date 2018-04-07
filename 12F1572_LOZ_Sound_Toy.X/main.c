@@ -46,6 +46,7 @@ void system_init(void)
     OSCCONbits.SPLLEN=0; // PLL disabled
     OSCCONbits.IRCF=0b1111; // 16MHz
     OSCCONbits.SCS=0b10; // internal oscillator used
+    __delay_ms(20);
     }
 
 void main(void) 
@@ -53,8 +54,10 @@ void main(void)
     system_init();
     usart_init();
     __delay_ms(20);
-    mp3s_init(0x08); // init mp3 module at 0x08 volume (max is 0x30)
-    __delay_ms(200);
+    mp3s_init();
+    __delay_ms(700); // if this delay is less than 700mS, the setVolume command will not work...
+    mp3s_setVolume(15);
+    __delay_ms(10);
     
     while(1)
         {

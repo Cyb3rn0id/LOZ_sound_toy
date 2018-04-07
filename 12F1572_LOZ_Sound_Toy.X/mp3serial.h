@@ -50,8 +50,8 @@
 #define CMD_PLAY_COMBINE        0x45	// play combination up to 15 songs, followed by folder index and song index, up to 15. Example:
 										// 7E 08 45 01 05 02 01 01 03 EF : plays song 5 in folder 1, then song 1 in folder 2 and then song 3 in folder 1
 
-extern void mp3s_init(uint8_t v); // init module with volume v
-extern void mp3s_setVolume(uint8_t v); // set volume to v (0x00 to 0x30)
+extern void mp3s_init(void);
+extern void mp3s_setVolume(uint8_t v); // set volume to v (0 to 30)
 extern void mp3s_playIndex(uint16_t i); // play i
 extern void mp3s_play(void);
 extern void mp3s_pause(void);
