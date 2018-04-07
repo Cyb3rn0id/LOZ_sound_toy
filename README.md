@@ -2,7 +2,8 @@
 
 I'm preparing a gift for my Son. He's in love with Nintendo's "The Legend Of Zelda" (ゼルダの伝説 - Zeruda no densetsu) saga. After he have completed some episodes, he's now playing to "Phantom Hourglass" one, so I want he to find his gift in a treasure chest. I'll connect a switch to chest cover so when he will open it, the treasure fanfare will start, just as in the game he love!
 
-Toy uses a PIC12F1572. 5 buttons are attached to RA1 to RA5 ports. Individual pull-up resistors are enabled on those ports. USART module uses only TX on RA0, RX is disabled so RA1 can be used as normal GPIO.
+Toy uses a PIC12F1572, project is for Microchip MPLAB X and XC8 compiler. In the SD folder are placed wav files I've used.
+5 buttons are attached to RA1 to RA5 ports. Individual pull-up resistors are enabled on those ports. USART module uses only TX on RA0, RX is disabled so RA1 can be used as normal GPIO.
 
 Also RA3 (MCRL/VPP) is used as Input, so if you encounter difficulties upon programming, remember to set "Enable VPP first VDD" in the PICkit options. I've used the PICkit 4 for programming it.
 
