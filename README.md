@@ -12,9 +12,9 @@ This is the WAV/MP3 module I've used:
 
 Here is a video:
 
-![LOZ sound toy](https://img.youtube.com/vi/GNW5sxZnXtE/0.jpg)](https://www.youtube.com/watch?v=GNW5sxZnXtE)
+[![LOZ sound toy](https://img.youtube.com/vi/GNW5sxZnXtE/0.jpg)](https://www.youtube.com/watch?v=GNW5sxZnXtE)
 
-More info on the module here: 
+Here you can find more info about the module (sorry, italian language, but you can use google translate): 
 http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/
 
 I've also written a library for this module to be used with Arduino and ESP8266, you can find it here: https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF
