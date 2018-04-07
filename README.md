@@ -7,6 +7,8 @@ Toy uses a PIC12F1572, project is for Microchip MPLAB X and XC8 compiler. In the
 
 Also RA3 (MCRL/VPP) is used as Input, so if you encounter difficulties upon programming, remember to set "Enable VPP first VDD" in the PICkit options. I've used the PICkit 4 for programming it.
 
+Module works also powered by an MT3608 switching step-up module and 2 AA batteries. If you want to sound on chest cover opening, is better to wire the switch on the batteries and hardwire the song play, so after the circuit is powered by the switch, the song starts. In this manner there is no power consumption in stand-by mode since batteries are completely disconnected.
+
 This is the WAV/MP3 module I've used:
 
 ![JQ8400TF module](https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF/blob/master/documents/mp3wav_module.jpg)
