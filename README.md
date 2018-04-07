@@ -11,7 +11,8 @@ This is the WAV/MP3 module I've used:
 ![JQ8400TF module](https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF/blob/master/documents/mp3wav_module.jpg)
 
 Here is a video:
-[![LOZ sound toy](https://img.youtube.com/vi/GNW5sxZnXtE/0.jpg)](https://www.youtube.com/watch?v=GNW5sxZnXtE)
+
+![LOZ sound toy](https://img.youtube.com/vi/GNW5sxZnXtE/0.jpg)](https://www.youtube.com/watch?v=GNW5sxZnXtE)
 
 More info on the module here: 
 http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/
