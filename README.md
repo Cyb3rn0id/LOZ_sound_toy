@@ -13,7 +13,7 @@ This is the WAV/MP3 module I've used:
 
 ![JQ8400TF module](https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF/blob/master/documents/mp3wav_module.jpg)
 
-Here are 2 videos:  
+## Videos 
   
 Sound toy made as code shows:  
 
@@ -23,7 +23,7 @@ Variant for in-treasure chest: no buttons on I/Os, first song played at program 
 
 [![LOZ trasure chest](https://img.youtube.com/vi/TOw_7AtAxk8/0.jpg)](https://www.youtube.com/watch?v=TOw_7AtAxk8)
 
-Here you can find more info about the module (sorry, italian language, but you can use google translate): 
-http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/
-
-I've also written a library for this module to be used with Arduino and ESP8266, you can find it here: https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF
+## Links  
+-Here you can find [more info about the module](http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/)(sorry, italian language, but you can use google translate)
+-I've also written a [library for this module to be used with Arduino and ESP8266](https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF)
+-[PIC12F1572 Datasheet](https://www.microchip.com/wwwproducts/en/PIC12F1572)
