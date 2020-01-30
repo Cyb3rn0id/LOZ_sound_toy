@@ -15,7 +15,8 @@ This is the WAV/MP3 module I've used:
 
 Here are 2 videos:  
   
-Sound toy made as code shows:
+Sound toy made as code shows:  
+
 [![LOZ sound toy](https://img.youtube.com/vi/GNW5sxZnXtE/0.jpg)](https://www.youtube.com/watch?v=GNW5sxZnXtE)
 
 Variant for in-treasure chest: no buttons on I/Os, first song played at program start-up and then program stuck in infinite loop. The switch on the lid is attached directly on the batteries. There is a little voltage booster for converting the 3V from AA batteries to 5V (mp3 module doesn't work at 3V):  
