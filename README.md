@@ -13,9 +13,14 @@ This is the WAV/MP3 module I've used:
 
 ![JQ8400TF module](https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF/blob/master/documents/mp3wav_module.jpg)
 
-Here is a video:
-
+Here are 2 videos:  
+  
+Sound toy made as code shows:
 [![LOZ sound toy](https://img.youtube.com/vi/GNW5sxZnXtE/0.jpg)](https://www.youtube.com/watch?v=GNW5sxZnXtE)
+
+Variant for in-treasure chest: no buttons on I/Os, first song played at program start-up and then program stuck in infinite loop. The switch on the lid is attached directly on the batteries. There is a little voltage booster for converting the 3V from AA batteries to 5V (mp3 module doesn't work at 3V):  
+
+[![LOZ trasure chest](https://img.youtube.com/vi/TOw_7AtAxk8/0.jpg)](https://www.youtube.com/watch?v=TOw_7AtAxk8)
 
 Here you can find more info about the module (sorry, italian language, but you can use google translate): 
 http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/
