@@ -21,7 +21,7 @@ Sound toy made as code shows:
 
 Variant for in-treasure chest: no buttons on I/Os, first song played at program start-up and then program stuck in infinite loop. The switch on the lid is attached directly on the batteries. There is a little voltage booster for converting the 3V from AA batteries to 5V (mp3 module doesn't work at 3V):  
 
-[![LOZ trasure chest](https://img.youtube.com/vi/TOw_7AtAxk8/0.jpg)](https://www.youtube.com/watch?v=TOw_7AtAxk8)
+[![LOZ trasure chest](https://img.youtube.com/vi/YiDNlb1nQaI/0.jpg)](https://www.youtube.com/watch?v=YiDNlb1nQaI)
 
 ## Links  
 - Here you can find [more info about the module](http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/)(sorry, italian language, but you can use google translate)
