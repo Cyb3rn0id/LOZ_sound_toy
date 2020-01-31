@@ -1,6 +1,6 @@
 /*
  * JQ8400TF or QJ004-16S mp3/wav player module
- * for Microchip PICmicro
+ * for Microchip PIC micro controllers
  * 
  * (c) 2018 Giovanni Bernardo
  * http://www.settorezero.com
