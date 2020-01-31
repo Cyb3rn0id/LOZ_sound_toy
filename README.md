@@ -26,4 +26,5 @@ Variant for in-treasure chest: no buttons on I/Os, first song played at program 
 ## Links  
 - Here you can find [more info about the module](http://www.settorezero.com/wordpress/en/un-player-wavmp3-economico-controllabile-da-porta-seriale-libreria-per-arduino-e-esp8266/)(sorry, italian language, but you can use google translate)
 - I've also written a [library for this module to be used with Arduino and ESP8266](https://github.com/Cyb3rn0id/mp3Serial_JQ8400TF)
+- [Italian article on my blog](https://www.settorezero.com/wordpress/uno-scrigno-magico-con-un-pic12f1572/)
 - [PIC12F1572 Datasheet](https://www.microchip.com/wwwproducts/en/PIC12F1572)
